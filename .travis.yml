@@ -1,6 +1,6 @@
 sudo: required
 dist: trusty
-install:
+script:
   - nvm use 0.10.40
   - npm install -g bower@beta
   - bower
