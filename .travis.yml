@@ -195,5 +195,5 @@ script:
   - node --version
   - npm --version
   - npm install -g $NPM_VERSION
-  - npm install -g bower@beta
+  - npm install -g bower
   - bower
