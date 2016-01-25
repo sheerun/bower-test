@@ -161,5 +161,5 @@ script:
   - node --version
   - npm --version
   - npm install -g $NPM_VERSION
-  - npm install -g bower-prerelease@1.7.6
+  - npm install -g bower-prerelease@1.7.7
   - bower-prerelease
