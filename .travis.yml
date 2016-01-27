@@ -162,4 +162,4 @@ script:
   - npm --version
   - npm install -g $NPM_VERSION
   - npm install -g bower@1.7.6
-  - bower info angular
+  - bower install --allow-root
